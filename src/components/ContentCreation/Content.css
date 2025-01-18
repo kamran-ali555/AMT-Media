@@ -1,0 +1,91 @@
+
+.section-seven{
+    max-width: 1440px;
+    height: 1055px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    margin-top: 100px;
+}
+.secseven-main-div{
+    width: 1260px;
+    height: 1010px;
+    margin: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+.cards-main-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+}
+.secseven-main-div>h3{
+    color:#000;
+    width: 1093px;
+    text-wrap: auto;
+    height: 190px;
+    font-size: 42px;
+    font-weight: 800;
+    line-height: 64px;
+    text-align: center;
+}
+.secseven-main-div>h3>span{
+color: #FF6C54E5;
+}
+.secseven-outer-div{
+    width: 1220px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+.secseven-card-one{
+width: 398px;
+height: 370px;
+border-radius: 20px;
+padding: 29px 15px 29px 15px;
+border: 1px 0px 0px 0px;
+background-color: #fff;
+display: flex;
+justify-content: space-around;
+align-items: center;
+flex-direction: column;
+flex-wrap: nowrap;
+box-shadow: 0px 12px 16px 0px #230B060A;
+
+box-shadow: 0px 4px 12px 0px #230B0614;
+}
+.secseven-card-one>img{
+padding-bottom: 35px;
+width: 83px;
+}
+.secseven-card-one>h4{
+    padding-bottom: 10px;
+    font-size: 22px;
+    font-weight: 800;
+    line-height: 30.05px;
+    text-align: center;
+    color: #34201C;
+}
+
+.secseven-card-one>p{
+    font-size: 17px;
+    font-weight: 500;
+    padding-bottom: 30px;
+    line-height: 28.9px;
+    letter-spacing: -0.01em;
+    text-align: center; 
+    color: #5C5C5C;
+}
+
+
+
+
+

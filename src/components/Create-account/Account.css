@@ -1,0 +1,80 @@
+.account-section{
+    max-width: 1440px;
+    height: 750px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+.main-div-account-section{
+    width: 1240px;
+    height: 512px;
+    border-radius: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    background-color: #FF6947;
+    position: relative;
+}
+/* card one css */
+.create-account{
+    width: 533px;
+    height: 350px;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    position: absolute;
+    top: 80px;
+    left: 80px;
+    gap: 30px;
+}
+.create-account>h4{
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 54.64px;
+    text-align: left;
+    color: #fff;
+}
+.create-account>p{
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    color: #ECECF6;
+}
+.create-account>button>a{
+    color: #FF6947;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 17.04px;
+    text-align: center; 
+}
+.create-account>button{
+    padding: 12px 24px;
+    border: none;
+    border-radius: 10px;
+}
+.create-account-image{
+    width: 524px;
+    height: 603px;
+    top: -91px;
+    left: 686px;
+    position: absolute;
+    top: -91px;
+    left: 686px;
+}
+
+/* card two css */
+.create-account-image>img{
+    /* background-image: url(./images/Backgroundcircle.png); */
+    /* background-image: url(./images/logo.png); */
+    width: 524px;
+    height: 603px;
+}

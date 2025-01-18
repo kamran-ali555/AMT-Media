@@ -1,0 +1,30 @@
+
+.work-section{
+    max-width: 1440px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.work-outer-div{
+    width: 1080px;
+    height: 105px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.work-outer-div>.work-inner-div-one>h1{
+font-size: 45px;
+font-weight: 800;
+line-height: 61.47px;
+text-align: center;
+color:  #57271C;
+}
+.work-outer-div>.work-inner-div-one>p{
+font-size: 18px;
+font-weight: 400;
+line-height: 24.59px;
+text-align: center;
+color: #53535E;
+}

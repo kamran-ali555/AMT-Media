@@ -1,0 +1,106 @@
+.testimonial-section{
+    background: #FFF7F2;
+    max-width: auto;
+    height: 944px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    margin-top: 50px;
+}
+.testimonial-main-div{
+    width: 1230px;
+    height: 766px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+.testimonial-inner-div-one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
+    flex-wrap: nowrap;
+}
+/* card one */
+.testimonial-card-one{
+    width: 540px;
+    height: 360px;
+    border-radius: 20px;
+    background: #FFFFFF;
+    position: relative;
+    padding: 26px 33px 30px 40px;
+    box-shadow: 0px 18px 30px 0px #1C1C570D;
+}
+.testimonial-card-one>h4{
+   font-size: 24px;
+   font-weight: 800;
+   line-height: 36px;
+   text-align: left;
+}
+.testimonial-card-one>p{
+   font-size: 18px;
+   font-weight: 600;
+   line-height: 32px;
+   text-align: left;
+   margin-top: 15px;
+}
+.testimonial-card-one>div{
+    width: 255px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap; 
+    position: absolute;
+    left: -30px;
+    bottom: 35px;
+    margin-top: 10px;
+}
+.testimonial-card-one>div>img{
+    width: 80px;
+    border-radius: 15px;
+}
+.testimonial-card-one>div>div>h5{
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 23.99px;
+    text-align: left;
+}
+.testimonial-card-one>div>div>p{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: left;
+}
+
+/* card two */
+.testimonial-card-two{
+    width: 540px;
+    height: 350px;
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    gap: 20px;
+}
+.testimonial-card-two>h5{
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 18px;
+    letter-spacing: 0.9599999785423279px;
+    text-align: left;
+    color: #FF6947;
+}
+.testimonial-card-two>h4{
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 56px;
+    text-align: left;
+    color: #34201C;
+    text-wrap: auto;
+}

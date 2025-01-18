@@ -1,0 +1,28 @@
+.footer-section{
+    max-width: auto;
+    height: 161px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    background-color: #120601;
+    margin: 0 auto;
+}
+.footer-main-div{
+    width: 1260px;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+.footer-main-div>div>h6{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15.12px;
+    letter-spacing: -0.14999999105930328px;
+    text-align: left;
+    text-decoration-skip-ink: none;
+    color: #FFECE2;
+}
